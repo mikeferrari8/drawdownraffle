@@ -16,9 +16,9 @@ When you start the program navigate to localhost:5000 and enter the following de
 6. Execute python drawdown.py
 
 ### Modification for your use:
-Change line 30 to represent your organization or event
-Change line 43 to add your logo image
-Change line 74 to include an advertising banner
-Change line 93 to reflect the percentage the house keeps (default is 33%)
+* Change line 30 to represent your organization or event
+* Change line 43 to add your logo image
+* Change line 74 to include an advertising banner
+* Change line 93 to reflect the percentage the house keeps (default is 33%)
 
 This is not intended for internet use. Please ensure that this is run on your local network
