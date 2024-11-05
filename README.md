@@ -12,7 +12,7 @@ When you start the program navigate to localhost:5000 and enter the following de
 2. Install pip
 3. Install Flask and Jinja2 ``` pip install flask jinja2 ```
 4. Create a directory and extract the downloaded zip file
-5. Replace the images in the static folder with your own
+5. create a static folder with your own logo image
 6. Execute python drawdown.py
 
 ### Modification for your use:
